@@ -1,15 +1,13 @@
 # Stock Market Simulator (Python)
 
-A desktop stock market simulator built with Python, featuring a graphical user interface (GUI), CSV-based data logging and executable (.exe) support.
+A desktop stock market simulator built with Python, featuring a graphical user interface (GUI), CSV-based data logging .
 
 ## Features
 - Simulated stock market price updates
 - Portfolio management (buy / sell transactions)
 - Persistent data storage using CSV files
-- Automatic data folder creation on first run
 - Clean project architecture (separation of concerns)
-- Standalone executable (.exe) version available
-
+  
 ## Project Structure
 stock-market-simulator/
 ├── main.py
@@ -19,8 +17,8 @@ stock-market-simulator/
 ├── data_logger.py
 ├── gui.py
 └── data/
-├── transactions.csv
-└── market_prices.csv
+        ├── transactions.csv
+        └── market_prices.csv
 
 
 ## Technologies
