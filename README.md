@@ -34,5 +34,8 @@ This project was designed to demonstrate:
 - basic data logging & persistence
 - readiness for real-world extensions (analytics, dashboards, databases)
 
+<img width="1315" height="790" alt="Screenshot 2026-01-21 001228" src="https://github.com/user-attachments/assets/3f964dd3-83ec-4faf-97f2-57e306cdf1b1" />
+
+
 ## Author
 Periklis Andrianos
