@@ -1,14 +1,14 @@
-# Stock Market Simulator (Python)
+# 🗠 Stock Market Simulator | **Python**
 
 A desktop stock market simulator built with Python, featuring a graphical user interface (GUI), CSV-based data logging .
 
-## Features
+## 🧑🏻‍💻 Features
 - Simulated stock market price updates
 - Portfolio management (buy / sell transactions)
 - Persistent data storage using CSV files
 - Clean project architecture (separation of concerns)
   
-## Project Structure
+## 🏗️ Project Structure
 stock-market-simulator/
 ├── main.py
 ├── config.py
@@ -20,14 +20,13 @@ stock-market-simulator/
         ├── transactions.csv
         └── market_prices.csv
 
-
-## Technologies
+## ✨ Technologies
 - Python
 - Tkinter (GUI)
 - CSV data handling
 - Object-Oriented Programming (OOP)
 
-## Purpose
+## 🔭 Purpose
 This project was designed to demonstrate:
 - clean Python architecture
 - separation of logic, data and UI
@@ -37,5 +36,5 @@ This project was designed to demonstrate:
 <img width="1315" height="790" alt="Screenshot 2026-01-21 001228" src="https://github.com/user-attachments/assets/3f964dd3-83ec-4faf-97f2-57e306cdf1b1" />
 
 
-## Author
+## ✍️ Author
 Periklis Andrianos
