@@ -2,7 +2,9 @@
 
 #### A desktop stock market simulator built with Python, featuring a graphical user interface (GUI), CSV-based data logging .
 --------------------
-##  Application UI
+## 🖼️ Application UI
+<img width="1315" height="790" alt="Screenshot 2026-01-19 141513" src="https://github.com/user-attachments/assets/2c533cbf-666f-40bd-a381-5ce06c5ad120" />
+
 
 ## 🧑🏻‍💻 Features
 - Simulated stock market price updates
@@ -11,14 +13,8 @@
 - Clean project architecture (separation of concerns)
   
 ## 🏗️ Project Structure
-- stock-market-simulator
-- ├── main.py
-- ├── config.py
-- ├── market.py
-- ├── portfolio.py
-- ├── data_logger.py
-- ├── gui.py
--    └── data
+<img width="675" height="281" alt="Screenshot 2026-01-27 125447" src="https://github.com/user-attachments/assets/371f6ed6-7527-499f-8710-0eb51f607127" />
+
 
 ## ✨ Technologies
 - Python
